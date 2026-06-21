@@ -61,21 +61,21 @@
 
 ## 📂 Featured Projects
 
-### 🏆 [Production-Grade CI/CD Pipeline with Jenkins Multibranch & GitOps](https://github.com/Kapil-123-lab/production-grade-cicd-pipeline)
-> Jenkins Multibranch Pipeline + ArgoCD + AWS EKS | Full GitOps workflow with feature branch strategy
-- Multibranch pipeline triggering on feature/PR/main branches via webhooks
-- Docker image build → DockerHub push → ArgoCD syncs to AWS EKS automatically
-- Implements GitOps: Git is the single source of truth for cluster state
-
-### 🔧 [Java CI Pipeline with GitHub Actions](https://github.com/Kapil-123-lab/GHA-Project-1)
-> GitHub Actions + Maven + Docker | Java application CI/CD pipeline
-- GitHub Actions workflow: build → test → Docker image → DockerHub
-- Maven-based Java application with Dockerfile for containerization
-
 ### 🛒 [Swiggy-App CI/CD Pipeline](https://github.com/Kapil-123-lab/Swiggy-App)
 > Jenkins + SonarQube + Docker + AWS | End-to-end CI/CD for a React application
 - SonarQube quality gate validation before Docker build
 - Webhook-triggered Jenkins pipeline with DockerHub registry integration
+
+### [ecommerce-devops-project](https://github.com/Kapil-123-lab/ecommerce-devops-project}
+> Node.js | MongoDB | Docker | Docker Compose | GitHub Actions | Docker Hub | Kubernetes | Helm | Prometheus | Grafana
+✅ Containerized the application using Docker and managed multi-container deployments with Docker Compose
+✅ Implemented CI/CD automation using GitHub Actions to automatically build and push Docker images to Docker Hub
+✅ Deployed the application on Kubernetes using Deployments, Services, ConfigMaps, and Horizontal Pod Autoscaler (HPA)
+✅ Configured Horizontal Pod Autoscaling to automatically scale the application based on CPU utilization
+✅ Integrated Prometheus and Grafana for real-time monitoring and observability
+✅ Exposed application metrics through a /metrics endpoint for Prometheus scraping
+
+
 
 ---
 
