@@ -68,12 +68,12 @@
 
 ### [ecommerce-devops-project](https://github.com/Kapil-123-lab/ecommerce-devops-project}
 > Node.js | MongoDB | Docker | Docker Compose | GitHub Actions | Docker Hub | Kubernetes | Helm | Prometheus | Grafana
-✅ Containerized the application using Docker and managed multi-container deployments with Docker Compose
-✅ Implemented CI/CD automation using GitHub Actions to automatically build and push Docker images to Docker Hub
-✅ Deployed the application on Kubernetes using Deployments, Services, ConfigMaps, and Horizontal Pod Autoscaler (HPA)
-✅ Configured Horizontal Pod Autoscaling to automatically scale the application based on CPU utilization
-✅ Integrated Prometheus and Grafana for real-time monitoring and observability
-✅ Exposed application metrics through a /metrics endpoint for Prometheus scraping
+- Containerized the application using Docker and managed multi-container deployments with Docker Compose
+- Implemented CI/CD automation using GitHub Actions to automatically build and push Docker images to Docker Hub
+- Deployed the application on Kubernetes using Deployments, Services, ConfigMaps, and Horizontal Pod Autoscaler (HPA)
+- Configured Horizontal Pod Autoscaling to automatically scale the application based on CPU utilization
+- Integrated Prometheus and Grafana for real-time monitoring and observability
+- Exposed application metrics through a /metrics endpoint for Prometheus scraping
 
 
 
