@@ -66,7 +66,7 @@
 - SonarQube quality gate validation before Docker build
 - Webhook-triggered Jenkins pipeline with DockerHub registry integration
 
-### [ecommerce-devops-project](https://github.com/Kapil-123-lab/ecommerce-devops-project}
+### [Ecommerce-devops-project](https://github.com/Kapil-123-lab/ecommerce-devops-project)
 > Node.js | MongoDB | Docker | Docker Compose | GitHub Actions | Docker Hub | Kubernetes | Helm | Prometheus | Grafana
 - Containerized the application using Docker and managed multi-container deployments with Docker Compose
 - Implemented CI/CD automation using GitHub Actions to automatically build and push Docker images to Docker Hub
