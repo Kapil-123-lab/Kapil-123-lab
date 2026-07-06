@@ -26,7 +26,8 @@ DevOps Engineer • SRE • Kubernetes • AWS • AI for DevOps
 
 # 👨‍💻 About Me
 
-I'm a **DevOps & Site Reliability Engineer** with **4 years of Production Support experience** in the BFSI domain, specializing in cloud infrastructure, Kubernetes, CI/CD automation, monitoring, and AI-powered operational tooling.
+I'm a **DevOps & Production Support Engineer** with **4 years of experience** supporting mission-critical **banking applications** in the BFSI domain.
+Recently, I completed the **IBM Executive Program in DevOps with AWS**, where I built multiple real-world cloud-native projects involving Kubernetes, Terraform, Jenkins, GitOps, and AI-driven automation.
 
 ### Current Focus
 
