@@ -118,7 +118,7 @@ An AI-powered platform that automatically detects unhealthy Kubernetes workloads
 - 📊 Prometheus & Grafana Integration
 - 🐳 Dockerized Deployment
 
-🔗 **GitHub:** *(https://github.com/Kapil-123-lab/AI-Powered-Kubernetes-Incident-Analyzer)*
+🔗 **GitHub:** https://github.com/Kapil-123-lab/AI-Powered-Kubernetes-Incident-Analyzer
 
 ---
 
@@ -174,15 +174,15 @@ Implemented an end-to-end DevOps workflow for a containerized ecommerce applicat
 ## 📊 GitHub Stats
 
 <p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Kapil-123-lab&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    height="170"
+  />
 
-<img
-src="https://github-readme-stats.vercel.app/api?username=Kapil-123-lab&show_icons=true&theme=github_dark&hide_border=true"
-height="170"/>
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kapil-123-lab&layout=compact&theme=github_dark&hide_border=true"
-height="170"/>
-
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kapil-123-lab&layout=compact&theme=tokyonight&hide_border=true"
+    height="170"
+  />
 </p>
 
 ---
