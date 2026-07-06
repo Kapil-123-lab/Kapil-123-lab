@@ -1,193 +1,215 @@
-<h1 align="center">Hi 👋, I'm Kapil Kanaujiya</h1>
+<h1 align="center">
+Hi 👋, I'm Kapil Kanaujiya
+</h1>
 
 <h3 align="center">
-DevOps Engineer | SRE | Cloud & Kubernetes Enthusiast | AI for DevOps
+DevOps Engineer • SRE • Kubernetes • AWS • AI for DevOps
 </h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/kapil-kanaujiya-4331191a1">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
 
-  <a href="mailto:kapilkanaujiya3@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<a href="https://linkedin.com/in/kapil-kanaujiya-4331191a1">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
 
-  <a href="https://github.com/Kapil-123-lab">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+<a href="mailto:kapilkanaujiya3@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Kapil-123-lab">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+
 </p>
 
 ---
 
-# 🚀 About Me
+# 👨‍💻 About Me
 
-I'm a **DevOps & Production Support Engineer** with **4 years of experience** supporting mission-critical **banking applications** in the BFSI domain.
+I'm a **DevOps & Site Reliability Engineer** with **4 years of Production Support experience** in the BFSI domain, specializing in cloud infrastructure, Kubernetes, CI/CD automation, monitoring, and AI-powered operational tooling.
 
-My expertise includes:
+### Current Focus
 
-- ⚙️ DevOps Automation
 - ☁️ AWS Cloud
 - ☸️ Kubernetes
-- 🐳 Docker
-- 🔁 CI/CD Pipelines
-- 📊 Monitoring & Observability
-- 🤖 AI-powered Operations (AIOps)
-
-Recently, I completed the **IBM Executive Program in DevOps with AWS**, where I built multiple real-world cloud-native projects involving Kubernetes, Terraform, Jenkins, GitOps, and AI-driven automation.
-
-📍 Mumbai, India
+- 🚀 DevOps Automation
+- 📈 Observability & Monitoring
+- 🤖 AI for DevOps (AIOps)
+- 🔥 Site Reliability Engineering (SRE)
 
 ---
 
 # 🛠 Tech Stack
 
-## ☁️ Cloud
+### Cloud
 
-- AWS (EC2, EKS, S3, IAM)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws)
 
-## 🚀 DevOps
+### Containers
 
-- Jenkins
-- GitHub Actions
-- SonarQube
-- Docker
-- Kubernetes
-- Helm
-- ArgoCD
-- Terraform
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
 
-## 📊 Monitoring
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes)
 
-- Prometheus
-- Grafana
-- Dynatrace
-- ELK Stack
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm)
 
-## 💻 Backend
+---
+
+### DevOps
+
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins)
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions)
+
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform)
+
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo)
+
+---
+
+### Monitoring
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus)
+
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana)
+
+![ELK](https://img.shields.io/badge/ELK-005571?style=flat-square&logo=elastic)
+
+![Dynatrace](https://img.shields.io/badge/Dynatrace-1496FF?style=flat-square&logo=dynatrace)
+
+---
+
+### Backend
 
 - Python
 - FastAPI
 - Streamlit
 
-## 🤖 AI
+---
+
+### AI
 
 - Ollama
 - Llama 3
-- AI-powered RCA
 - Prompt Engineering
-
-## 🗄 Database
-
-- MongoDB
-
-## 🖥 Operating Systems
-
-- Linux
-- RedHat Enterprise Linux
-
-## 🔧 Middleware
-
-- MuleSoft
-- Oracle WebLogic
-- TIBCO EMS
-- ServiceNow
+- AI Root Cause Analysis
+- AI Remediation
 
 ---
 
-# ⭐ Featured Projects
+# 🚀 Featured Projects
+
+---
 
 ## 🤖 AI-Powered Kubernetes Incident Analyzer
 
-> **FastAPI | Streamlit | Kubernetes | Docker | Prometheus | Grafana | MongoDB | Ollama | Llama 3**
-
-An AI-powered platform that automatically detects unhealthy Kubernetes workloads, performs AI-based Root Cause Analysis (RCA), and provides remediation recommendations.
+> **FastAPI • Streamlit • Kubernetes • Docker • Prometheus • Grafana • MongoDB • Ollama • Llama 3**
 
 ### Features
 
-- 🚨 Automatic Failed Pod Detection
-- 🤖 AI Root Cause Analysis using Llama 3
-- 💡 AI Remediation Suggestions
-- 📊 Cluster Health Dashboard
-- 📈 Incident Analytics
-- 📉 MTTR Dashboard
-- 📚 Incident History
-- 📄 PDF Report Generation
-- 📧 Email Notifications
-- 💬 Slack Notifications
-- 📊 Prometheus & Grafana Integration
-- 🐳 Dockerized Deployment
+✅ AI Root Cause Analysis
 
-🔗 **GitHub:** https://github.com/Kapil-123-lab/AI-Powered-Kubernetes-Incident-Analyzer
+✅ AI Remediation Suggestions
+
+✅ Automatic Failed Pod Detection
+
+✅ Incident History
+
+✅ MTTR / MTBF Dashboard
+
+✅ Email Notifications
+
+✅ Slack Notifications
+
+✅ PDF Reports
+
+✅ Dockerized Deployment
+
+✅ Kubernetes Monitoring
+
+### Tech Stack
+
+FastAPI | Streamlit | Kubernetes | Docker | MongoDB | Prometheus | Grafana | Ollama | Llama 3
+
+🔗 Repository
+
+https://github.com/Kapil-123-lab/AI-Powered-Kubernetes-Incident-Analyzer
 
 ---
 
 ## 🛒 Swiggy CI/CD Pipeline
 
-> **React | Jenkins | SonarQube | Docker | AWS**
-
-Designed a complete CI/CD pipeline for a React application.
-
-### Highlights
+React • Jenkins • Docker • SonarQube • AWS
 
 - Jenkins Multibranch Pipeline
 - SonarQube Quality Gates
-- Docker Image Build
 - DockerHub Integration
 - Automated Deployment
 
-🔗 https://github.com/Kapil-123-lab/Swiggy-App
+🔗
+
+https://github.com/Kapil-123-lab/Swiggy-App
 
 ---
 
 ## 🛍 Ecommerce DevOps Project
 
-> **Node.js | MongoDB | Docker | Kubernetes | Helm | Prometheus | Grafana**
+Node.js • Docker • Kubernetes • Helm • Prometheus • Grafana
 
-Implemented an end-to-end DevOps workflow for a containerized ecommerce application.
-
-### Highlights
-
-- Docker & Docker Compose
+- Docker Compose
 - GitHub Actions CI/CD
-- DockerHub Registry
 - Kubernetes Deployment
-- Helm Charts
-- Horizontal Pod Autoscaler
-- Prometheus Monitoring
-- Grafana Dashboards
+- HPA
+- Helm
+- Monitoring
 
-🔗 https://github.com/Kapil-123-lab/ecommerce-devops-project
+🔗
 
----
-
-# 📜 Certification
-
-## IBM Executive Program in DevOps with AWS
-
-**Nov 2025 – May 2026**
-
-🔗 https://itvedant.skillsnetwork.site/certificates/3720a5d6-ac6f-46e0-b662-592215ea01f1
+https://github.com/Kapil-123-lab/ecommerce-devops-project
 
 ---
 
-## 📊 GitHub Stats
+# 🏆 Certifications
+
+### IBM Executive Program in DevOps with AWS
+
+Nov 2025 – May 2026
+
+https://itvedant.skillsnetwork.site/certificates/3720a5d6-ac6f-46e0-b662-592215ea01f1
+
+---
+
+# 📈 GitHub Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Kapil-123-lab&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-    height="170"
-  />
 
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kapil-123-lab&layout=compact&theme=tokyonight&hide_border=true"
-    height="170"
-  />
+<img src="https://streak-stats.demolab.com?user=Kapil-123-lab&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-# 📫 Connect With Me
+# 🏅 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Kapil-123-lab&theme=tokyonight&no-frame=true&row=1"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kapil-123-lab&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 📫 Connect
 
 📧 **Email**
 
@@ -205,6 +227,6 @@ https://github.com/Kapil-123-lab
 
 <p align="center">
 
-⭐ If you like my projects, feel free to star the repositories!
+⭐ Thanks for visiting my profile!
 
 </p>
