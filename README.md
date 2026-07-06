@@ -171,17 +171,17 @@ Implemented an end-to-end DevOps workflow for a containerized ecommerce applicat
 
 ---
 
-# 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
 
 <img
-height="165"
-src="https://github-readme-stats.vercel.app/api?username=Kapil-123-lab&show_icons=true&theme=github_dark&hide_border=true"/>
+src="https://github-readme-stats.vercel.app/api?username=Kapil-123-lab&show_icons=true&theme=github_dark&hide_border=true"
+height="170"/>
 
 <img
-height="165"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kapil-123-lab&layout=compact&theme=github_dark&hide_border=true"/>
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kapil-123-lab&layout=compact&theme=github_dark&hide_border=true"
+height="170"/>
 
 </p>
 
