@@ -60,7 +60,7 @@ IBM DevOps capstone — full CI/CD pipeline from commit to deployment.
 
 ### 📜 Certifications
 
-**Executive Program in DevOps with AWS** — IBM Skills Network *(Nov 2025 – May 2026)*
+**Executive Program in DevOps with AWS** — IBM Skills Network *(Oct 2025 – May 2026)*
 [View Certificate ↗](https://itvedant.skillsnetwork.site/certificates/3720a5d6-ac6f-46e0-b662-592215ea01f1)
 
 ---
